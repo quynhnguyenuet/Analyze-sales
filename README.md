@@ -19,7 +19,11 @@ The purchase order, or PO, usually includes a PO number, which is useful in matc
 ### Question:
 
 What was the best month for sales? How much was earned that month?<space><space>
+
 What City had the highest number of sales?<space><space>
+
 What time should we display adverstisement to maximize likelihood of customer's buying product?<space><space>
+
 What product was the best Year for sales? How much was earned that Year?<space><space>
+
 What is the monthly sales of each item? Which products have the most seasonal sales?<space><space>
