@@ -12,6 +12,7 @@ Quantity Ordered - Ordered Quantity is the total item quantity ordered in the in
 Price Each - The price of each products.<space><space>
 
 Order Date - This is the date the customer is requesting the order be shipped.<space><space>
+
 Purchase Address - The purchase order is prepared by the buyer, often through a purchasing department.<space><space>
 The purchase order, or PO, usually includes a PO number, which is useful in matching shipments with purchases; a shipping date; billing address; shipping address; and the request items, quantities and price.
 
